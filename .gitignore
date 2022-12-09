@@ -1,1 +1,13 @@
-*.exe
+*exe
+01_recursion_intro_code.exe
+02_headrecursion.exe
+03_tail_recursion.exe
+04_tree_recursion.exe
+05_Indirect_recursion.exe
+06_nested_recursion.exe
+07_sum_n_numbers.exe
+08_factorial_of_number.exe
+10_01_taylor_usingloop.exe
+11_01_fibonacci_iterain.exe
+12_02_combination.exe
+tower_of_hanoi.exe
